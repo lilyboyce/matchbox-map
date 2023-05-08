@@ -30,7 +30,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bar Camillo",
-        "description": "",
+        "url": "https://www.barcamillo.com/",
+        "description": "Where do I even begin with this restaurant, one of my absolute favorites? They’re a sister restaurant of the esteemed Locanda in Clinton Hill, but their menu is focused on Roman pinsa and a long list of Negroni specialities. I found this restaurant walking through my old neighborhood in February 2020, on one of my boyfriend’s and my earliest dates, and their beautiful backyard served as a bit of a safe haven over the next year of uncertainty. We end up here about once a month. You absolutely must order the insalata di cicoria, it’s the most simple and heavenly salad that I could never go without. The anchovies are pretty spectacular, too.",
         "img": "c"
       },
       "geometry": {
@@ -42,7 +43,8 @@
       "type": "Feature",
       "properties": {
         "title": "Do or Dive",
-        "description": "",
+        "url": "https://www.doordivebedstuy.com/",
+        "description": "One of my Bed-Stuy staples. Cheap drinks, good vibes, dogs allowed. Order the Coffee Thing in the summer and hang out in the backyard. This place really knows how to hit the spot 💯",
         "img": "d"
       },
       "geometry": {
@@ -54,7 +56,8 @@
       "type": "Feature",
       "properties": {
         "title": "Elsa",
-        "description": "",
+        "url": "https://elsabarnyc.com/",
+        "description": "One of my favorite cocktail bars. When I used to work nearby, this was my staple for happy hour — I love their generous and luxe cheese boards and sazeracs on the cheap. Their interior design is KILLER, even the bathrooms feel like an experience.",
         "img": "e"
       },
       "geometry": {
@@ -66,7 +69,8 @@
       "type": "Feature",
       "properties": {
         "title": "Fiaschetteria 'Pistoia'",
-        "description": "",
+        "url": "https://www.fiaschetteriapistoia.com/#west-village",
+        "description": "One of my favorite things about living in New York is you can wander down any given street and find some of the best food you never knew was there. My boyfriend lived in the West Village before I dragged him to Brooklyn, so we spent a lot of time discovering new places together there, which is a time that I really treasure. Fisachetteria Pistoia became our go-to whenever we had a hankering for pasta, because their cacio e pepe with handrolled pici is to die for, and their house wine carafe served with tiny duralex glasses transports me immediately to Italy.",
         "img": "f"
       },
       "geometry": {
@@ -78,7 +82,8 @@
       "type": "Feature",
       "properties": {
         "title": "Golda",
-        "description": "",
+        "url": "https://www.goldakitchen.com/",
+        "description": "I love a cafe / restaurant combo and this is one of the best, melding mouthwatering mediterranean flavors into breakfast pastries, lunch sandwiches, and dinner plates 〰️ their breakfast sandwich with harissa jam is not to be missed, & I’m only a little obsessed with their branding & interior design.",
         "img": "g"
       },
       "geometry": {
@@ -90,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "title": "Hart's",
-        "description": "",
+        "url": "https://www.hartsbrooklyn.com/",
+        "description": "Hart’s is well known for good reason. They turned into a market during the pandemic selling their house made specialties, and honestly I was a little sad when they went back to service because I can’t buy their tahini spread & wholesale wine on the regular anymore :(  It can be hard to get a reservation for their tiny dining space, but I always have luck walking in for a waitlist table and grabbing a cocktail at Glorietta Baldy next door while I wait (almost made my G for them!) - makes for a great night out.",
         "img": "h"
       },
       "geometry": {
@@ -102,7 +108,8 @@
       "type": "Feature",
       "properties": {
         "title": "I Sodi",
-        "description": "",
+        "url": "https://www.isodinyc.com/",
+        "description": "ah, the elusive white whale of my NYC Italian dining adventure. I almost ate here once, but a couple ran, literally RAN, to beat my boyfriend and I to the door as we walked up and they got the last open table. Someday I’ll check this one off my list, or maybe I’ll just go back to Italy ¯\\_(ツ)_/¯",
         "img": "i"
       },
       "geometry": {
@@ -114,7 +121,8 @@
       "type": "Feature",
       "properties": {
         "title": "Jack's Wife Freda",
-        "description": "",
+        "url": "https://jackswifefreda.com/",
+        "description": "A stand-by staple for all occasions. This has been a go-to since one of my first trips to New York before I moved here; I sat alone in a corner table and had green shakshuka and a cocktail while I read a book … I felt SO incredibly ~new yorker~  There are multiple locations and you can’t go wrong with any of them, unless you’re looking for a big table for brunch because you’ll be waiting for hours. But it’s probably worth the wait.",
         "img": "j"
       },
       "geometry": {
@@ -126,7 +134,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kubeh",
-        "description": "",
+        "url": "https://www.eatkubeh.com/",
+        "description": "Mediterranean & Middle Eastern cuisines are one of my all-time favorite. Kubeh has a fantastic selection of mezes and yummy things, and they have arak service with multiple options which is just truly *chefs kiss*",
         "img": "k"
       },
       "geometry": {
@@ -138,7 +147,8 @@
       "type": "Feature",
       "properties": {
         "title": "Lupa",
-        "description": "",
+        "url": "https://www.luparestaurant.com/",
+        "description": "A friend of mine used to work at this cozy Roman restaurant, and it was such a fun place to visit and sit at the bar during her shift. This is where my love for amaro began 🖤",
         "img": "l"
       },
       "geometry": {
@@ -150,7 +160,8 @@
       "type": "Feature",
       "properties": {
         "title": "Miss Ada",
-        "description": "",
+        "url": "https://www.missadanyc.com/",
+        "description": "A can’t-miss Mediterranean masterpiece. I have dreams about the whipped ricotta and sweet potato hummus. Their name is a play on the Hebrew word for restaurant, ‘misada’. This design is inspired by traditional Israeli paper cutting, which is a gorgeous thing to google.",
         "img": "m"
       },
       "geometry": {
@@ -162,7 +173,8 @@
       "type": "Feature",
       "properties": {
         "title": "Neptune Diner",
-        "description": "",
+        "url": "https://neptunedinerbk.net/",
+        "description": "There’s a special place in my heart for classic diners. I always find one when I’m on a trip, but have a lot left in New York to try. Neptune Diner is in my neighborhood on the border of Crown Heights & Prospect Heights, and next time I’m craving a tuna melt, I’m headed this way.",
         "img": "n"
       },
       "geometry": {
@@ -174,7 +186,8 @@
       "type": "Feature",
       "properties": {
         "title": "Oxomoco",
-        "description": "",
+        "url": "https://www.oxomoconyc.com/",
+        "description": "A Michelin-starred Mexican restaurant in Greenpoint. Their menu is entirely small sharing plates which is one of my favorite ways to eat — a little bite of everything, please!",
         "img": "o"
       },
       "geometry": {
@@ -186,7 +199,8 @@
       "type": "Feature",
       "properties": {
         "title": "Pietro Nolita",
-        "description": "",
+        "url": "http://www.pietronolita.com/",
+        "description": "Pietro Nolita - the most pink restaurant you’ll ever find yourself in, in a cozy half basement in Nolita. their specialties are Italian classics, and I’ve never been so pleased with a plate of spaghetti pomodoro 🍝",
         "img": "p"
       },
       "geometry": {
@@ -198,7 +212,8 @@
       "type": "Feature",
       "properties": {
         "title": "Quan Sushi",
-        "description": "",
+        "url": "https://www.quansushiny.com/",
+        "description": "I gotta be honest, it was tough finding a restaurant that started with a Q! I haven’t been to Quan but it looks delicious, and I’ll take sushi any day of the week (okay yes sometimes every day) 🍣🍣🍣",
         "img": "q"
       },
       "geometry": {
@@ -210,7 +225,8 @@
       "type": "Feature",
       "properties": {
         "title": "Rialto Grande",
-        "description": "",
+        "url": "https://www.rialtogrande.com/",
+        "description": "My favorite local bar in Crown Heights 🖤 They have amazing cocktails, great bartenders, plenty of gold tinsel, and the whole place just feels like being cozy inside a mid century credenza. Highly recommend 💯",
         "img": "r"
       },
       "geometry": {
@@ -222,7 +238,8 @@
       "type": "Feature",
       "properties": {
         "title": "Smør",
-        "description": "",
+        "url": "https://www.smornyc.com/",
+        "description": "I love Scandinavian flavors soOoOo much, gimme all the dill & black licorice & cardamom & smoked salmon! I found Smør when I had a hankering for a cardamom bun and it became an instant favorite 💕 they have more than pastries, too, with (very good) Nordic-inspired lunch and dinner.",
         "img": "s"
       },
       "geometry": {
@@ -234,7 +251,8 @@
       "type": "Feature",
       "properties": {
         "title": "Taiyaki",
-        "description": "",
+        "url": "https://taiyakinyc.com/",
+        "description": "Taiyaki is a baked fish-shaped cone stuffed with bean curd or custard, and filled with soft serve 🍦 I die. You can get any combo of toppings, I highly recommend the stick of mochi. Matcha is my favorite soft-serve flavor so here’s a green scaly T 💚",
         "img": "t"
       },
       "geometry": {
@@ -246,7 +264,8 @@
       "type": "Feature",
       "properties": {
         "title": "Ume",
-        "description": "",
+        "url": "https://www.umenewyork.com/",
+        "description": "A true sushi ex-per-i-ence 🍣✨ Leave your shoes at the door and sidle up to a platter of beautiful diy sushi & sashimi. Ume makes for a really fun date night or a spot to bring friends from out of town for something unique!",
         "img": "u"
       },
       "geometry": {
@@ -258,7 +277,8 @@
       "type": "Feature",
       "properties": {
         "title": "Vanessa's Dumpling House",
-        "description": "",
+        "url": "",
+        "description": "I’m always down for dumplings, and this classic hits the spot every time 🥟 It’ll always feel extra special to me as it played a big part in my boyfriend’s and my early dating <3  all I can say is, order everything you can and you won’t be disappointed.",
         "img": "v"
       },
       "geometry": {
@@ -270,6 +290,7 @@
       "type": "Feature",
       "properties": {
         "title": "Wildair",
+        "url": "",
         "description": "",
         "img": "w"
       },
@@ -282,6 +303,7 @@
       "type": "Feature",
       "properties": {
         "title": "Bar Tulix",
+        "url": "",
         "description": "",
         "img": "x"
       },
@@ -294,6 +316,7 @@
       "type": "Feature",
       "properties": {
         "title": "Amor Y Amargo",
+        "url": "",
         "description": "",
         "img": "y"
       },
@@ -306,6 +329,7 @@
       "type": "Feature",
       "properties": {
         "title": "Zucker's Bagels & Smoked Fish",
+        "url": "",
         "description": "",
         "img": "z"
       },
