@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.mapboxgl-popup {
+  min-width: 320px;
+  border: 3px solid black;
+}
+
+.mapboxgl-popup-tip {
+  display: none;
+}
+
+.mapboxgl-popup-close-button {
+  font-size: 30px;
+  font-weight: 100;
+  color: burlywood;
+  font-family: Graphik;
+}
+
+.mapboxgl-popup-content {
+  font: 400 12px/16px "Source Sans Pro", "Helvetica Neue", sans-serif;
+  padding: 1rem;
+  background-color: bisque;
+}
+
+.mapboxgl-popup-content a {
+  text-decoration: none;
+  font: 600 18px/22px;
+  color: black;
+}

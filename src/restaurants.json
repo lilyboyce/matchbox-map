@@ -1,0 +1,319 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Agi's Counter",
+        "url": "https://agiscounter.com/",
+        "description": "A is for Agi’s Counter: a recent addition to Crown Heights, my neighborhood! Agi’s is a modern Jewish/Hungarian take on the traditional lunch counter, serving up delicious staples full of flavor. The motif in this illustration is a traditional folk tulip, the national flower of Hungary, as their wine list is 100% Hungarian.",
+        "img": "a"
+      },
+      "geometry": {
+        "coordinates": [-73.95841, 40.67006],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bunny",
+        "url": "https://www.bunnybedstuy.com/",
+        "description": "B is for Bunny, a wonderful little gem in Bed-Stuy. Bunny serves modern Turkish fare with an ever-changing daily menu, so you know you’re getting the freshest and the best. I was inspired by traditional Iznik handpainted tile for this one.",
+        "img": "b"
+      },
+      "geometry": {
+        "coordinates": [-73.94976, 40.68201],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bar Camillo",
+        "description": "",
+        "img": "c"
+      },
+      "geometry": {
+        "coordinates": [-73.94428, 40.68656],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Do or Dive",
+        "description": "",
+        "img": "d"
+      },
+      "geometry": {
+        "coordinates": [-73.95488, 40.686771],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elsa",
+        "description": "",
+        "img": "e"
+      },
+      "geometry": {
+        "coordinates": [-73.99536, 40.69024],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fiaschetteria 'Pistoia'",
+        "description": "",
+        "img": "f"
+      },
+      "geometry": {
+        "coordinates": [-74.0053, 40.73301],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Golda",
+        "description": "",
+        "img": "g"
+      },
+      "geometry": {
+        "coordinates": [-73.95591, 40.681511],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hart's",
+        "description": "",
+        "img": "h"
+      },
+      "geometry": {
+        "coordinates": [-73.95587144, 40.68159736],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "I Sodi",
+        "description": "",
+        "img": "i"
+      },
+      "geometry": {
+        "coordinates": [-74.0049828561046, 40.733370241119246],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jack's Wife Freda",
+        "description": "",
+        "img": "j"
+      },
+      "geometry": {
+        "coordinates": [-74.00354846101419, 40.72987951372278],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kubeh",
+        "description": "",
+        "img": "k"
+      },
+      "geometry": {
+        "coordinates": [-73.9981, 40.735459],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lupa",
+        "description": "",
+        "img": "l"
+      },
+      "geometry": {
+        "coordinates": [-74.00021196063618, 40.72765361551552],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miss Ada",
+        "description": "",
+        "img": "m"
+      },
+      "geometry": {
+        "coordinates": [-73.97238010259922, 40.68949445648562],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Neptune Diner",
+        "description": "",
+        "img": "n"
+      },
+      "geometry": {
+        "coordinates": [-73.95927793065053, 40.676415879594344],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxomoco",
+        "description": "",
+        "img": "o"
+      },
+      "geometry": {
+        "coordinates": [-73.95548369454009, 40.729906042446345],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pietro Nolita",
+        "description": "",
+        "img": "p"
+      },
+      "geometry": {
+        "coordinates": [-73.99470714572571, 40.72102164417552],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quan Sushi",
+        "description": "",
+        "img": "q"
+      },
+      "geometry": {
+        "coordinates": [-73.99635335150937, 40.72020549826334],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rialto Grande",
+        "description": "",
+        "img": "r"
+      },
+      "geometry": {
+        "coordinates": [-73.95607319379043, 40.67633755070918],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smør",
+        "description": "",
+        "img": "s"
+      },
+      "geometry": {
+        "coordinates": [-73.9816876, 40.7293429],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taiyaki",
+        "description": "",
+        "img": "t"
+      },
+      "geometry": {
+        "coordinates": [-73.99895014893215, 40.7179522331422],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ume",
+        "description": "",
+        "img": "u"
+      },
+      "geometry": {
+        "coordinates": [-73.96560425589122, 40.7165593284725],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vanessa's Dumpling House",
+        "description": "",
+        "img": "v"
+      },
+      "geometry": {
+        "coordinates": [-73.9917458, 40.7183325],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wildair",
+        "description": "",
+        "img": "w"
+      },
+      "geometry": {
+        "coordinates": [-73.989098, 40.7201415],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bar Tulix",
+        "description": "",
+        "img": "x"
+      },
+      "geometry": {
+        "coordinates": [-73.9981155, 40.7258226],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amor Y Amargo",
+        "description": "",
+        "img": "y"
+      },
+      "geometry": {
+        "coordinates": [-73.98403295966985, 40.725635378959424],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zucker's Bagels & Smoked Fish",
+        "description": "",
+        "img": "z"
+      },
+      "geometry": {
+        "coordinates": [-74.00980982650528, 40.71566632050818],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
