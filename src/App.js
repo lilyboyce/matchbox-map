@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import React, { useRef, useEffect, useState } from "react";
+import React from "react";
 import Map from "./Map";
 
 function App() {

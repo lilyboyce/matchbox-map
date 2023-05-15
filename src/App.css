@@ -38,7 +38,12 @@
 }
 
 .mapboxgl-popup {
-  min-width: 320px;
+  /* min-width: 100vw; */
+  transform: none !important;
+  top: 0;
+  left: 0;
+  min-width: 30vw;
+  height: 100vh;
   border: 3px solid black;
 }
 
@@ -55,12 +60,18 @@
 
 .mapboxgl-popup-content {
   font: 400 12px/16px "Source Sans Pro", "Helvetica Neue", sans-serif;
+  height: 100vh;
   padding: 1rem;
-  background-color: bisque;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .mapboxgl-popup-content a {
   text-decoration: none;
   font: 600 18px/22px;
-  color: black;
+  color: rgb(231, 216, 196);
 }

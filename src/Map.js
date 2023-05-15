@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from "react";
+import React, { useRef, useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import geoJson from "./restaurants.json";
 import * as matchboxes from "./matchboxes";
@@ -33,6 +33,16 @@ const images = [
   { url: matchboxes.x, id: "x" },
   { url: matchboxes.y, id: "y" },
   { url: matchboxes.z, id: "z" },
+  { url: matchboxes.zero, id: "zero" },
+  { url: matchboxes.one, id: "one" },
+  { url: matchboxes.two, id: "two" },
+  { url: matchboxes.three, id: "three" },
+  { url: matchboxes.four, id: "four" },
+  { url: matchboxes.five, id: "five" },
+  { url: matchboxes.six, id: "six" },
+  { url: matchboxes.seven, id: "seven" },
+  { url: matchboxes.eight, id: "eight" },
+  { url: matchboxes.nine, id: "nine" },
 ];
 
 const Map = () => {
@@ -48,7 +58,7 @@ const Map = () => {
       container: mapContainer.current,
       style: "mapbox://styles/mapbox/light-v11",
       center: [-73.975382, 40.691965],
-      zoom: 11,
+      zoom: 12,
     });
 
     map.on("load", function () {
@@ -99,14 +109,14 @@ const Map = () => {
         const description = `<p>${prop.description}</p>`;
         //match each image id with its url in the popup
         const imgUrl = images.find((item) => prop.img === item.id);
-        const popupImage = `<p><img width="200px" src=${imgUrl.url}></img></p>`;
+        const popupImage = `<p><img width="300px" src=${imgUrl.url}></img></p>`;
 
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
         // over the copy being pointed to.
-        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-          coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-        }
+        // while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        //   coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        // }
 
         new mapboxgl.Popup()
           .setLngLat(coordinates)
