@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from "react";
-import mapboxgl from "mapbox-gl";
+import mapboxgl from "!mapbox-gl"; // eslint-disable-line import/no-webpack-loader-syntax
 import geoJson from "./restaurants.json";
 import * as matchboxes from "./matchboxes";
 
