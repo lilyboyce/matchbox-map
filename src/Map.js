@@ -59,6 +59,7 @@ const Map = () => {
       style: "mapbox://styles/mapbox/light-v11",
       center: [-73.975382, 40.691965],
       zoom: 12,
+      logoPosition: "top-right",
     });
 
     map.on("load", function () {
@@ -107,20 +108,14 @@ const Map = () => {
         const coordinates = e.features[0].geometry.coordinates.slice();
         const title = `<h2><a href=${prop.url} target='blank' title='Opens in a new window'>${prop.title}</a></h2>`;
         const description = `<p>${prop.description}</p>`;
+        const meta = `<p class="meta">${prop.meta}</p>`;
         //match each image id with its url in the popup
         const imgUrl = images.find((item) => prop.img === item.id);
-        const popupImage = `<p><img width="300px" src=${imgUrl.url}></img></p>`;
-
-        // Ensure that if the map is zoomed out such that multiple
-        // copies of the feature are visible, the popup appears
-        // over the copy being pointed to.
-        // while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-        //   coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-        // }
+        const popupImage = `<p><img class="popupImage" src=${imgUrl.url}></img></p>`;
 
         new mapboxgl.Popup()
           .setLngLat(coordinates)
-          .setHTML(popupImage + title + description)
+          .setHTML(popupImage + meta + title + description)
           .addTo(map);
       });
 
