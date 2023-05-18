@@ -26,7 +26,7 @@ export { default as y } from "./YAMARGO.png";
 export { default as z } from "./ZUCKERS.png";
 export { default as zero } from "./0ZERO.png";
 export { default as one } from "./1IFBYLAND.png";
-export { default as two } from "./2IFBYSEA.gif";
+export { default as two } from "./2IFBYSEA.png";
 export { default as three } from "./3RULEOFTHIRDS.png";
 export { default as four } from "./4HORSEMEN.png";
 export { default as five } from "./5LEAVES.png";
