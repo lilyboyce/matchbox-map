@@ -104,7 +104,7 @@
         "title": "Hart's",
         "meta": "H — 8/36",
         "url": "https://www.hartsbrooklyn.com/",
-        "description": "Hart’s is well known for good reason. They turned into a market during the pandemic selling their house made specialties, and honestly I was a little sad when they went back to service because I can’t buy their tahini spread & wholesale wine on the regular anymore :(  It can be hard to get a reservation for their tiny dining space, but I always have luck walking in for a waitlist table and grabbing a cocktail at Glorietta Baldy next door while I wait (almost made my G for them!) - makes for a great night out.",
+        "description": "Hart’s is well known for good reason. It can be hard to get a reservation for their tiny dining space, but I always have luck walking in for a waitlist table and grabbing a cocktail at Glorietta Baldy next door while I wait (almost made my G for them!) - makes for a great night out.",
         "img": "h"
       },
       "geometry": {
@@ -188,7 +188,7 @@
         "title": "Neptune Diner",
         "meta": "N — 14/36",
         "url": "https://neptunedinerbk.net/",
-        "description": "There’s a special place in my heart for classic diners. I always find one when I’m on a trip, but have a lot left in New York to try. Neptune Diner is in my neighborhood on the border of Crown Heights & Prospect Heights, and next time I’m craving a tuna melt, I’m headed this way.",
+        "description": "There’s a special place in my heart for classic diners. I always find one when I’m on a trip, but have a lot left in New York to try. Neptune Diner is in my neighborhood on the border of Crown Heights & Prospect Heights, and next time I’m craving a tuna melt, I’m headed this way. One of my great loves and inspiration for this matchbox is midcentury space graphics.",
         "img": "n"
       },
       "geometry": {
@@ -299,7 +299,7 @@
       "properties": {
         "title": "Vanessa's Dumpling House",
         "meta": "V — 22/36",
-        "url": "",
+        "url": "https://vanessas.com/",
         "description": "I’m always down for dumplings, and this classic hits the spot every time 🥟 It’ll always feel extra special to me as it played a big part in my boyfriend’s and my early dating <3  all I can say is, order everything you can and you won’t be disappointed.",
         "img": "v"
       },
@@ -313,7 +313,7 @@
       "properties": {
         "title": "Wildair",
         "meta": "W — 23/36",
-        "url": "",
+        "url": "https://www.wildair.nyc/",
         "description": "W for Wildair, one of the first places I had truly good scallops (!) and their natural wine list is no joke. a truly great spot for some small plates in the lower east side 🫶",
         "img": "w"
       },
@@ -327,8 +327,8 @@
       "properties": {
         "title": "Bar Tulix",
         "meta": "X — 24/36",
-        "url": "",
-        "description": "X for Bar Tulix - I was so sad when Xilonen closed, a vegan Mexican spot in Greenpoint by the same crew as Oxomoco (see my ‘O’ matchbox!). But imagine my delight when researching restaurants for X when I learned they opened a new venture on Houston, this time with a seafood-forward menu 🐟🦐🐙 And conveniently for this project, with another X in the name 😉",
+        "url": "https://www.bartulix.com/",
+        "description": "X for Bar Tulix - a new Mexican spot by the same crew as Oxomoco (see my ‘O’ matchbox!). Their seafood-forward menu looks incredible 🐟🦐🐙 ",
         "img": "x"
       },
       "geometry": {
@@ -341,7 +341,7 @@
       "properties": {
         "title": "Amor Y Amargo",
         "meta": "Y — 25/36",
-        "url": "",
+        "url": "https://www.amoryamargo.com/",
         "description": "A cocktail bar specializing solely in bitters, I have had some truly creative and delicious drinks here. The way they recreate classics & come up with entirely new flavors using only amari is incredible!",
         "img": "y"
       },
@@ -355,7 +355,7 @@
       "properties": {
         "title": "Zucker's Bagels & Smoked Fish",
         "meta": "Z — 26/36",
-        "url": "",
+        "url": "https://www.zuckersbagels.com/",
         "description": " It wouldn’t be a New York restaurant series without a bagel shop, and Zucker’s has never let me down. What’s your go-to bagel spot?? 👀🥯",
         "img": "z"
       },
@@ -369,7 +369,7 @@
       "properties": {
         "title": "Zero Otto Nove",
         "meta": "0 — 27/36",
-        "url": "",
+        "url": "https://zeroottonove.com/",
         "description": "Zero for Zero Otto Nove - I’m a little shocked I’ve made it through 27 restaurants in NYC and this is only the second pizza spot. This is a Neapolitan pizzeria in the Bronx that has been on my list for a long time - conventiently for me, they also have a location in lower Manhattan",
         "img": "zero"
       },
@@ -383,7 +383,7 @@
       "properties": {
         "title": "1 If By Land, 2 If By Sea",
         "meta": "1 & 2 — 28&29/36",
-        "url": "",
+        "url": "https://oneifbyland.com/",
         "description": "This is a classic, romantic American restaurant in the heart of Greenwich Village, named after an iconic phrase from Longfellow’s poem ‘Paul Revere’s Ride’. It references Revere’s secret signal to inform the route the British were taking at the outset of the Revolutionary War 🕯️🐎🛶",
         "img": "one"
       },
@@ -397,7 +397,7 @@
       "properties": {
         "title": "Rule of Thirds",
         "meta": "3 — 30/36",
-        "url": "",
+        "url": "https://www.thirdsbk.com/",
         "description": "Rule of Thirds in Greenpoint, Brooklyn, is a phenomenal Japanese restaurant. Have had very fun times with friends here, the menu is perfect for sharing lots of things. Their hamachi collar is incredible - this was the first place I had a fish collar and was a little confused at first how to eat it, but very quickly forgot my manners and just tore in because it was so delicious 😋",
         "img": "three"
       },
@@ -411,7 +411,7 @@
       "properties": {
         "title": "The Four Horsemen",
         "meta": "4 — 31/36",
-        "url": "",
+        "url": "https://www.fourhorsemenbk.com/",
         "description": "4 is for The Four Horsemen - this natural wine bar has been on my list for a long time but I haven’t made it yet! Fun fact, it was opened by the lead singer of LCD Soundsystem 🪩 ",
         "img": "four"
       },
@@ -425,7 +425,7 @@
       "properties": {
         "title": "Five Leaves",
         "meta": "5 — 32/36",
-        "url": "",
+        "url": "https://fiveleavesny.com/",
         "description": "Five Leaves in Greenpoint - this tiny corner spot is great not only for the food but also for the location! one of my favorite corners on a nice day ☀️ it’s right next to McCarren Park and there’s a Saturday vintage pop-up on the sidewalk 💯",
         "img": "five"
       },
@@ -439,7 +439,7 @@
       "properties": {
         "title": "Bar 6",
         "meta": "6 — 33/36",
-        "url": "",
+        "url": "https://www.barsixnyc.com/menu",
         "description": "A French Moroccan bistro in Greenwich Village. Sixth Ave is kind of a weird amalgamation of different businesses and busy traffic, but Bar Six is a friendly little hideaway from the chaos 💫 I really enjoyed drawing the tile pattern for this one 🙂",
         "img": "six"
       },
@@ -453,7 +453,7 @@
       "properties": {
         "title": "No. 7 Restaurant",
         "meta": "7 — 34/36",
-        "url": "",
+        "url": "http://www.no7restaurant.com/",
         "description": "This spot is along Prospect Heights’ “restaurant row” on Vanderbilt, where there are honestly just too many good places to choose from. I’ve only been here for cocktails, which were phenomenal, but am excited to come back for dinner sometime! Their vibe is relaxed & friendly, but also kinda schmancy thanks to their gorgeous decor ✨",
         "img": "seven"
       },
@@ -467,7 +467,7 @@
       "properties": {
         "title": "1OR8",
         "meta": "8 — 35/36",
-        "url": "",
+        "url": "http://www.oneoreightbk.com/",
         "description": "A Japanese restaurant in Fort Greene. They have regular seating with a full menu, or a sushi counter for omakase — get you a spot that can do both.",
         "img": "eight"
       },
@@ -481,7 +481,7 @@
       "properties": {
         "title": "The Nines",
         "meta": "9 — 36/36",
-        "url": "",
+        "url": "https://www.ninesnyc.com/",
         "description": "A classic supper club with pianos and caviar, I cannot wait to dine here someday.",
         "img": "nine"
       },

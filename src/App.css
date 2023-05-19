@@ -1,3 +1,24 @@
+@font-face {
+  font-family: "Graphik";
+  src: url("./fonts/Graphik-Regular.woff") format(woff);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("./fonts/Graphik-Medium.otf") format(opentype);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("./fonts/Graphik-Semibold.otf") format(opentype);
+  font-weight: 600;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
 }
@@ -44,12 +65,13 @@
   left: 0;
   min-width: 40vw;
   height: 100vh;
-  @media screen and (max-width: 500px) {
+  z-index: 10;
+  /* @media screen and (max-width: 500px) {
     max-width: 80% !important;
     height: 90%;
     top: 5%;
     left: 5%;
-  }
+  } */
 }
 
 .mapboxgl-popup-tip {
@@ -77,12 +99,12 @@
   padding-top: 12%;
   color: rgb(231, 216, 196);
   align-items: center;
-  @media screen and (max-width: 500px) {
-    padding-top: 20%;
-    /* justify-content: flex-start; */
-    width: 100%;
-    height: 100%;
-  }
+  /* @media screen and (max-width: 500px) {
+    padding-top: 20% !important;
+    justify-content: flex-start;
+    width: 100% !important;
+    height: 100% !important;
+  } */
 }
 
 .mapboxgl-popup-content a {
@@ -103,20 +125,23 @@
   font-size: 24px;
 }
 
-.mapboxgl-popup-content h2:hover {
-  color: red;
+a:hover {
+  color: #d25e5e;
 }
 
 .popupImage {
   width: 300px;
   height: auto;
-  @media screen and (max-width: 500px) {
+  max-height: 400px;
+  object-fit: contain;
+  pointer-events: none;
+  /* @media screen and (max-width: 500px) {
     height: 300px;
     width: auto;
     aspect-ratio: auto;
     max-width: 100%;
     object-fit: contain;
-  }
+  } */
 }
 
 .meta {
@@ -134,4 +159,31 @@
 
 .mapboxgl-map {
   height: 100vh !important;
+}
+
+@media only screen and (max-width: 650px) {
+  .popupImage {
+    height: 300px !important;
+    width: auto !important;
+    aspect-ratio: auto !important;
+    max-width: 100% !important;
+    object-fit: contain !important;
+  }
+  .mapboxgl-popup {
+    max-width: 80% !important;
+    height: 90% !important;
+    top: 5% !important;
+    left: 5% !important;
+  }
+  .mapboxgl-popup-content {
+    padding-top: 20% !important;
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 950px) {
+  .mapboxgl-popup {
+    min-width: 50vw;
+  }
 }
