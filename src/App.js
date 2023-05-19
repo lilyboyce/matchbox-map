@@ -55,7 +55,7 @@ function App({ classes }) {
             className={classes.link}
             href="https://www.36daysoftype.com/"
             target="_blank"
-            noref="noreferrer"
+            rel="noreferrer"
           >
             36 Days of Type
           </a>{" "}
@@ -64,7 +64,7 @@ function App({ classes }) {
             className={classes.link}
             href="https://www.lilyelle.xyz"
             target="_blank"
-            noref="noreferrer"
+            rel="noreferrer"
           >
             Lily Boyce
           </a>

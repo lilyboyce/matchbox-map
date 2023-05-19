@@ -64,7 +64,8 @@
   top: 0;
   left: 0;
   min-width: 40vw;
-  height: 100vh;
+  height: 100% !important;
+  min-height: "-webkit-fill-available";
   z-index: 10;
   /* @media screen and (max-width: 500px) {
     max-width: 80% !important;
@@ -85,11 +86,13 @@
   color: burlywood;
   font-family: Graphik;
   right: 3%;
+  padding: 0;
+  margin: 0;
 }
 
 .mapboxgl-popup-content {
   font: 400 14px/18px "Graphik", "Helvetica Neue", sans-serif;
-  height: 100vh;
+  height: 100%;
   padding: 1rem;
   background-color: black;
   color: white;
@@ -99,12 +102,6 @@
   padding-top: 12%;
   color: rgb(231, 216, 196);
   align-items: center;
-  /* @media screen and (max-width: 500px) {
-    padding-top: 20% !important;
-    justify-content: flex-start;
-    width: 100% !important;
-    height: 100% !important;
-  } */
 }
 
 .mapboxgl-popup-content a {
@@ -135,13 +132,6 @@ a:hover {
   max-height: 400px;
   object-fit: contain;
   pointer-events: none;
-  /* @media screen and (max-width: 500px) {
-    height: 300px;
-    width: auto;
-    aspect-ratio: auto;
-    max-width: 100%;
-    object-fit: contain;
-  } */
 }
 
 .meta {
@@ -150,7 +140,7 @@ a:hover {
   font-weight: 600;
   color: #d25e5e;
   text-align: center;
-  padding-bottom: 20px;
+  padding-bottom: 12px;
 }
 
 .map-container {
@@ -170,13 +160,13 @@ a:hover {
     object-fit: contain !important;
   }
   .mapboxgl-popup {
+    width: 80% !important;
     max-width: 80% !important;
-    height: 90% !important;
+    height: 80% !important;
     top: 5% !important;
     left: 5% !important;
   }
   .mapboxgl-popup-content {
-    padding-top: 20% !important;
     width: 100% !important;
     height: 100% !important;
   }
@@ -184,6 +174,7 @@ a:hover {
 
 @media only screen and (max-width: 950px) {
   .mapboxgl-popup {
-    min-width: 50vw;
+    width: 50vw;
+    /* min-width: 400px; */
   }
 }
