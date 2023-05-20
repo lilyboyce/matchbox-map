@@ -117,6 +117,15 @@ const Map = () => {
           .setLngLat(coordinates)
           .setHTML(popupImage + meta + title + description)
           .addTo(map);
+
+        window.dataLayer.push({
+          event: "event",
+          eventProps: {
+            category: "popup",
+            action: "click",
+            label: prop.title,
+          },
+        });
       });
 
       // Change the cursor to a pointer when the mouse is over the places layer.
