@@ -122,6 +122,8 @@
   font-family: "Graphik";
   font-weight: 600;
   font-size: 24px;
+  line-height: 1.2;
+  text-align: center;
 }
 
 a:hover {
@@ -142,7 +144,6 @@ a:hover {
   font-weight: 600;
   color: #d25e5e;
   text-align: center;
-  padding-bottom: 12px;
 }
 
 .map-container {
@@ -172,14 +173,15 @@ a:hover {
     width: 80% !important;
     max-width: 80% !important;
     min-width: 80% !important;
-    height: 70% !important;
-    top: 5% !important;
+    height: 80% !important;
+    top: 11% !important;
     left: 5% !important;
   }
   .mapboxgl-popup-content {
     width: 100% !important;
     height: 100% !important;
-    border: 2px solid white;
+    border: 2px solid rgb(231, 216, 196);
+    overflow: scroll !important;
   }
   .mapboxgl-popup-content p {
     max-width: 80%;
@@ -189,5 +191,11 @@ a:hover {
 @media only screen and (max-width: 550px) {
   .mapboxgl-popup-content p {
     max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .mapboxgl-popup-content {
+    justify-content: flex-start;
   }
 }
