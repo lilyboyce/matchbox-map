@@ -147,12 +147,12 @@ a:hover {
 }
 
 .map-container {
-  height: 100vh !important;
+  height: 100dvh !important;
 }
 
-.mapboxgl-map {
-  height: 100vh !important;
-}
+/* .mapboxgl-map {
+  height: 100vmin !important;
+} */
 
 @media only screen and (max-width: 950px) {
   .mapboxgl-popup {
