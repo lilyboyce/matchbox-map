@@ -4,6 +4,9 @@ import withStyles from "react-jss";
 import Map from "./Map";
 
 const styles = {
+  app: {
+    overflow: "hidden",
+  },
   header: {
     position: "absolute",
     bottom: 0,
@@ -61,7 +64,7 @@ const styles = {
 
 function App({ classes }) {
   return (
-    <div>
+    <div className={classes.app}>
       <div className={classes.header}>
         <h2 className={classes.title}>36 Days of NYC Matchboxes</h2>
         <p className={classes.subHead}>
