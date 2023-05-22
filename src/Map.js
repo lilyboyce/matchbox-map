@@ -58,7 +58,8 @@ const Map = () => {
       container: mapContainer.current,
       style: "mapbox://styles/mapbox/light-v11",
       center: [-73.975382, 40.691965],
-      zoom: 12,
+      minZoom: 11,
+      // maxZoom: 12,
       logoPosition: "top-right",
     });
 
