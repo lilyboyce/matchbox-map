@@ -80,7 +80,7 @@ function App({ classes }) {
           project by{" "}
           <a
             className={classes.link}
-            href="https://www.lilyelle.xyz"
+            href="https://www.lilyelle.xyz/36days"
             target="_blank"
             rel="noreferrer"
           >
