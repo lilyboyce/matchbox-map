@@ -112,7 +112,7 @@ const Map = () => {
           .addTo(map);
 
         window.dataLayer.push({
-          event: "event",
+          event: "popupClick",
           eventProps: {
             category: "popup",
             action: "click",
