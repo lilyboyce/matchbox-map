@@ -7,7 +7,8 @@
         "meta": "A — 1/36",
         "url": "https://agiscounter.com/",
         "description": "A is for Agi’s Counter: a recent addition to Crown Heights, my neighborhood! Agi’s is a modern Jewish/Hungarian take on the traditional lunch counter, serving up delicious staples full of flavor. The motif in this illustration is a traditional folk tulip, the national flower of Hungary, as their wine list is 100% Hungarian.",
-        "img": "a"
+        "img": "a",
+        "rotation": 3
       },
       "geometry": {
         "coordinates": [-73.95841, 40.67006],
@@ -21,7 +22,8 @@
         "meta": "B — 2/36",
         "url": "https://www.bunnybedstuy.com/",
         "description": "B is for Bunny, a wonderful little gem in Bed-Stuy. Bunny serves modern Turkish fare with an ever-changing daily menu, so you know you’re getting the freshest and the best. I was inspired by traditional Iznik handpainted tile for this one.",
-        "img": "b"
+        "img": "b",
+        "rotation": -2
       },
       "geometry": {
         "coordinates": [-73.94976, 40.68201],
@@ -35,7 +37,8 @@
         "meta": "C — 3/36",
         "url": "https://www.barcamillo.com/",
         "description": "C is for Bar Camillo. A sister restaurant of the esteemed Locanda in Clinton Hill, but their menu is focused on Roman pinsa and a long list of Negroni specialities. You absolutely must order the insalata di cicoria, it’s the most simple and heavenly salad that I could never go without. The anchovies are pretty spectacular, too.",
-        "img": "c"
+        "img": "c",
+        "rotation": -4
       },
       "geometry": {
         "coordinates": [-73.94428, 40.68656],
@@ -49,7 +52,8 @@
         "meta": "D — 4/36",
         "url": "https://www.doordivebedstuy.com/",
         "description": "D for Do or Dive, one of my Bed-Stuy staples. Cheap drinks, good vibes, dogs allowed. Order the Coffee Thing in the summer and hang out in the backyard. This place really knows how to hit the spot 💯",
-        "img": "d"
+        "img": "d",
+        "rotation": -2
       },
       "geometry": {
         "coordinates": [-73.95488, 40.686771],
@@ -63,7 +67,8 @@
         "meta": "E — 5/36",
         "url": "https://elsabarnyc.com/",
         "description": "E for Elsa, one of my favorite cocktail bars. When I used to work nearby, this was my staple for happy hour — I love their generous and luxe cheese boards and sazeracs on the cheap. Their interior design is KILLER, even the bathrooms feel like an experience.",
-        "img": "e"
+        "img": "e",
+        "rotation": 5
       },
       "geometry": {
         "coordinates": [-73.99536, 40.69024],
@@ -77,7 +82,8 @@
         "meta": "F — 6/36",
         "url": "https://www.fiaschetteriapistoia.com/#west-village",
         "description": "One of my favorite things about living in New York is you can wander down any given street and find some of the best food you never knew was there. Fisachetteria Pistoia became a go-to whenever I have a hankering for pasta after happening upon it in the West Village, because their cacio e pepe with handrolled pici is to die for, and their house wine carafe served with tiny duralex glasses transports me immediately to Italy.",
-        "img": "f"
+        "img": "f",
+        "rotation": -4
       },
       "geometry": {
         "coordinates": [-74.0053, 40.73301],
@@ -91,10 +97,11 @@
         "meta": "G — 7/36",
         "url": "https://www.goldakitchen.com/",
         "description": "I love a cafe / restaurant combo and this is one of the best, melding mouthwatering mediterranean flavors into breakfast pastries, lunch sandwiches, and dinner plates 〰️ their breakfast sandwich with harissa jam is not to be missed, & I’m only a little obsessed with their branding & interior design.",
-        "img": "g"
+        "img": "g",
+        "rotation": 3
       },
       "geometry": {
-        "coordinates": [-73.95591, 40.681511],
+        "coordinates": [-73.95591, 40.6814],
         "type": "Point"
       }
     },
@@ -105,10 +112,11 @@
         "meta": "H — 8/36",
         "url": "https://www.hartsbrooklyn.com/",
         "description": "Hart’s is well known for good reason. It can be hard to get a reservation for their tiny dining space, but I always have luck walking in for a waitlist table and grabbing a cocktail at Glorietta Baldy next door while I wait (almost made my G for them!) - makes for a great night out.",
-        "img": "h"
+        "img": "h",
+        "rotation": -4
       },
       "geometry": {
-        "coordinates": [-73.95587144, 40.68159736],
+        "coordinates": [-73.95587144, 40.6816],
         "type": "Point"
       }
     },
@@ -119,7 +127,8 @@
         "meta": "I — 9/36",
         "url": "https://www.isodinyc.com/",
         "description": "ah, the elusive white whale of my NYC Italian dining adventure. I almost ate here once, but a couple ran, literally RAN, to beat my boyfriend and I to the door as we walked up and they got the last open table. Someday I’ll check this one off my list, or maybe I’ll just go back to Italy ¯\\_(ツ)_/¯",
-        "img": "i"
+        "img": "i",
+        "rotation": 5
       },
       "geometry": {
         "coordinates": [-74.0049828561046, 40.733370241119246],
@@ -133,7 +142,8 @@
         "meta": "J — 10/36",
         "url": "https://jackswifefreda.com/",
         "description": "A stand-by staple for all occasions. This has been a go-to since one of my first trips to New York before I moved here; I sat alone in a corner table and had green shakshuka and a cocktail while I read a book … I felt SO incredibly ~new yorker~  There are multiple locations and you can’t go wrong with any of them, unless you’re looking for a big table for brunch because you’ll be waiting for hours. But it’s probably worth the wait.",
-        "img": "j"
+        "img": "j",
+        "rotation": -3
       },
       "geometry": {
         "coordinates": [-74.00354846101419, 40.72987951372278],
@@ -147,7 +157,8 @@
         "meta": "K — 11/36",
         "url": "https://www.eatkubeh.com/",
         "description": "Mediterranean & Middle Eastern cuisines are one of my all-time favorite. Kubeh has a fantastic selection of mezes and yummy things, and they have arak service with multiple options which is just truly *chefs kiss*",
-        "img": "k"
+        "img": "k",
+        "rotation": 4
       },
       "geometry": {
         "coordinates": [-73.9981, 40.735459],
@@ -161,7 +172,8 @@
         "meta": "L — 12/36",
         "url": "https://www.luparestaurant.com/",
         "description": "A friend of mine used to work at this cozy Roman restaurant, and it was such a fun place to visit and sit at the bar during her shift. This is where my love for amaro began 🖤",
-        "img": "l"
+        "img": "l",
+        "rotation": 5
       },
       "geometry": {
         "coordinates": [-74.00021196063618, 40.72765361551552],
@@ -175,7 +187,8 @@
         "meta": "M — 13/36",
         "url": "https://www.missadanyc.com/",
         "description": "A can’t-miss Mediterranean masterpiece. I have dreams about the whipped ricotta and sweet potato hummus. Their name is a play on the Hebrew word for restaurant, ‘misada’. This design is inspired by traditional Israeli paper cutting, which is a gorgeous thing to google.",
-        "img": "m"
+        "img": "m",
+        "rotation": -4
       },
       "geometry": {
         "coordinates": [-73.97238010259922, 40.68949445648562],
@@ -189,7 +202,8 @@
         "meta": "N — 14/36",
         "url": "https://neptunedinerbk.net/",
         "description": "There’s a special place in my heart for classic diners. I always find one when I’m on a trip, but have a lot left in New York to try. Neptune Diner is in my neighborhood on the border of Crown Heights & Prospect Heights, and next time I’m craving a tuna melt, I’m headed this way. One of my great loves and inspiration for this matchbox is midcentury space graphics.",
-        "img": "n"
+        "img": "n",
+        "rotation": -3
       },
       "geometry": {
         "coordinates": [-73.95927793065053, 40.676415879594344],
@@ -203,7 +217,8 @@
         "meta": "O — 15/36",
         "url": "https://www.oxomoconyc.com/",
         "description": "A Michelin-starred Mexican restaurant in Greenpoint. Their menu is entirely small sharing plates which is one of my favorite ways to eat — a little bite of everything, please!",
-        "img": "o"
+        "img": "o",
+        "rotation": -5
       },
       "geometry": {
         "coordinates": [-73.95548369454009, 40.729906042446345],
@@ -217,7 +232,8 @@
         "meta": "P — 16/36",
         "url": "http://www.pietronolita.com/",
         "description": "Pietro Nolita - the most pink restaurant you’ll ever find yourself in, in a cozy half basement in Nolita. their specialties are Italian classics, and I’ve never been so pleased with a plate of spaghetti pomodoro 🍝",
-        "img": "p"
+        "img": "p",
+        "rotation": -4
       },
       "geometry": {
         "coordinates": [-73.99470714572571, 40.72102164417552],
@@ -231,7 +247,8 @@
         "meta": "Q — 17/36",
         "url": "https://www.quansushiny.com/",
         "description": "It was tough finding a restaurant that started with a Q! I haven’t been to Quan but it looks delicious, and I’ll take sushi any day of the week (okay yes sometimes every day) 🍣🍣🍣",
-        "img": "q"
+        "img": "q",
+        "rotation": 3
       },
       "geometry": {
         "coordinates": [-73.99635335150937, 40.72020549826334],
@@ -245,7 +262,8 @@
         "meta": "R — 18/36",
         "url": "https://www.rialtogrande.com/",
         "description": "My favorite local bar in Crown Heights 🖤 They have amazing cocktails, great bartenders, plenty of gold tinsel, and the whole place just feels like being cozy inside a mid century credenza. Highly recommend 💯",
-        "img": "r"
+        "img": "r",
+        "rotation": -2
       },
       "geometry": {
         "coordinates": [-73.95607319379043, 40.67633755070918],
@@ -259,7 +277,8 @@
         "meta": "S — 19/36",
         "url": "https://www.smornyc.com/",
         "description": "I love Scandinavian flavors soOoOo much, gimme all the dill & black licorice & cardamom & smoked salmon! I found Smør when I had a hankering for a cardamom bun and it became an instant favorite 💕 they have more than pastries, too, with (very good) Nordic-inspired lunch and dinner.",
-        "img": "s"
+        "img": "s",
+        "rotation": -5
       },
       "geometry": {
         "coordinates": [-73.9816876, 40.7293429],
@@ -273,7 +292,8 @@
         "meta": "T — 20/36",
         "url": "https://taiyakinyc.com/",
         "description": "Taiyaki is a baked fish-shaped cone stuffed with bean curd or custard, and filled with soft serve 🍦 I die. You can get any combo of toppings, I highly recommend the stick of mochi. Matcha is my favorite soft-serve flavor so here’s a green scaly T 💚",
-        "img": "t"
+        "img": "t",
+        "rotation": -3
       },
       "geometry": {
         "coordinates": [-73.99895014893215, 40.7179522331422],
@@ -287,7 +307,8 @@
         "meta": "U — 21/36",
         "url": "https://www.umenewyork.com/",
         "description": "A true sushi ex-per-i-ence 🍣✨ Leave your shoes at the door and sidle up to a platter of beautiful diy sushi & sashimi. Ume makes for a really fun date night or a spot to bring friends from out of town for something unique!",
-        "img": "u"
+        "img": "u",
+        "rotation": -4
       },
       "geometry": {
         "coordinates": [-73.96560425589122, 40.7165593284725],
@@ -301,7 +322,8 @@
         "meta": "V — 22/36",
         "url": "https://vanessas.com/",
         "description": "I’m always down for dumplings, and this classic hits the spot every time 🥟 It’ll always feel extra special to me as it played a big part in my boyfriend’s and my early dating <3  all I can say is, order everything you can and you won’t be disappointed.",
-        "img": "v"
+        "img": "v",
+        "rotation": 2
       },
       "geometry": {
         "coordinates": [-73.9917458, 40.7183325],
@@ -315,7 +337,8 @@
         "meta": "W — 23/36",
         "url": "https://www.wildair.nyc/",
         "description": "W for Wildair, one of the first places I had truly good scallops (!) and their natural wine list is no joke. a truly great spot for some small plates in the lower east side 🫶",
-        "img": "w"
+        "img": "w",
+        "rotation": 4
       },
       "geometry": {
         "coordinates": [-73.989098, 40.7201415],
@@ -329,7 +352,8 @@
         "meta": "X — 24/36",
         "url": "https://www.bartulix.com/",
         "description": "X for Bar Tulix - a new Mexican spot by the same crew as Oxomoco (see my ‘O’ matchbox!). Their seafood-forward menu looks incredible 🐟🦐🐙 ",
-        "img": "x"
+        "img": "x",
+        "rotation": -3
       },
       "geometry": {
         "coordinates": [-73.9981155, 40.7258226],
@@ -343,7 +367,8 @@
         "meta": "Y — 25/36",
         "url": "https://www.amoryamargo.com/",
         "description": "A cocktail bar specializing solely in bitters, I have had some truly creative and delicious drinks here. The way they recreate classics & come up with entirely new flavors using only amari is incredible!",
-        "img": "y"
+        "img": "y",
+        "rotation": 4
       },
       "geometry": {
         "coordinates": [-73.98403295966985, 40.725635378959424],
@@ -357,7 +382,8 @@
         "meta": "Z — 26/36",
         "url": "https://www.zuckersbagels.com/",
         "description": " It wouldn’t be a New York restaurant series without a bagel shop, and Zucker’s has never let me down. What’s your go-to bagel spot?? 👀🥯",
-        "img": "z"
+        "img": "z",
+        "rotation": -3
       },
       "geometry": {
         "coordinates": [-74.00980982650528, 40.71566632050818],
@@ -371,10 +397,11 @@
         "meta": "0 — 27/36",
         "url": "https://zeroottonove.com/",
         "description": "Zero for Zero Otto Nove - I’m a little shocked I’ve made it through 27 restaurants in NYC and this is only the second pizza spot. This is a Neapolitan pizzeria in the Bronx that has been on my list for a long time - conventiently for me, they also have a location in lower Manhattan",
-        "img": "zero"
+        "img": "zero",
+        "rotation": 4
       },
       "geometry": {
-        "coordinates": [-73.9916571, 40.7408464],
+        "coordinates": [-73.88844900479934, 40.854734667043545],
         "type": "Point"
       }
     },
@@ -385,7 +412,8 @@
         "meta": "1 & 2 — 28&29/36",
         "url": "https://oneifbyland.com/",
         "description": "This is a classic, romantic American restaurant in the heart of Greenwich Village, named after an iconic phrase from Longfellow’s poem ‘Paul Revere’s Ride’. It references Revere’s secret signal to inform the route the British were taking at the outset of the Revolutionary War 🕯️🐎🛶",
-        "img": "one"
+        "img": "one",
+        "rotation": -3
       },
       "geometry": {
         "coordinates": [-74.00264749024187, 40.73259210713795],
@@ -399,7 +427,8 @@
         "meta": "3 — 30/36",
         "url": "https://www.thirdsbk.com/",
         "description": "Rule of Thirds in Greenpoint, Brooklyn, is a phenomenal Japanese restaurant. Have had very fun times with friends here, the menu is perfect for sharing lots of things. Highly recommend the hamachi collar 😋",
-        "img": "three"
+        "img": "three",
+        "rotation": -4
       },
       "geometry": {
         "coordinates": [-73.95517158333334, 40.724593666666664],
@@ -413,7 +442,8 @@
         "meta": "4 — 31/36",
         "url": "https://www.fourhorsemenbk.com/",
         "description": "4 is for The Four Horsemen - this natural wine bar has been on my list for a long time but I haven’t made it yet! Fun fact, it was opened by the lead singer of LCD Soundsystem 🪩 ",
-        "img": "four"
+        "img": "four",
+        "rotation": 3
       },
       "geometry": {
         "coordinates": [-73.95729301215955, 40.713047311042004],
@@ -427,7 +457,8 @@
         "meta": "5 — 32/36",
         "url": "https://fiveleavesny.com/",
         "description": "Five Leaves in Greenpoint - this tiny corner spot is great not only for the food but also for the location! one of my favorite corners on a nice day ☀️ it’s right next to McCarren Park and there’s a Saturday vintage pop-up on the sidewalk 💯",
-        "img": "five"
+        "img": "five",
+        "rotation": 2
       },
       "geometry": {
         "coordinates": [-73.9516132669298, 40.72367485180669],
@@ -441,7 +472,8 @@
         "meta": "6 — 33/36",
         "url": "https://www.barsixnyc.com/menu",
         "description": "A French Moroccan bistro in Greenwich Village. Sixth Ave is kind of a weird amalgamation of different businesses and busy traffic, but Bar Six is a friendly little hideaway from the chaos 💫 I really enjoyed drawing the tile pattern for this one 🙂",
-        "img": "six"
+        "img": "six",
+        "rotation": -4
       },
       "geometry": {
         "coordinates": [-73.99737304070588, 40.73650994879863],
@@ -455,7 +487,8 @@
         "meta": "7 — 34/36",
         "url": "http://www.no7restaurant.com/",
         "description": "This spot is along Prospect Heights’ “restaurant row” on Vanderbilt, where there are honestly just too many good places to choose from. I’ve only been here for cocktails, which were phenomenal, but am excited to come back for dinner sometime! Their vibe is relaxed & friendly, but also kinda schmancy thanks to their gorgeous decor ✨",
-        "img": "seven"
+        "img": "seven",
+        "rotation": -3
       },
       "geometry": {
         "coordinates": [-73.9684275323378, 40.67832100236711],
@@ -469,7 +502,8 @@
         "meta": "8 — 35/36",
         "url": "http://www.oneoreightbk.com/",
         "description": "A Japanese restaurant in Fort Greene. They have regular seating with a full menu, or a sushi counter for omakase — get you a spot that can do both.",
-        "img": "eight"
+        "img": "eight",
+        "rotation": 5
       },
       "geometry": {
         "coordinates": [-73.970339109176, 40.68962911176013],
@@ -483,7 +517,8 @@
         "meta": "9 — 36/36",
         "url": "https://www.ninesnyc.com/",
         "description": "A classic supper club with pianos and caviar, I cannot wait to dine here someday.",
-        "img": "nine"
+        "img": "nine",
+        "rotation": 4
       },
       "geometry": {
         "coordinates": [-73.99397666286397, 40.727328774857966],

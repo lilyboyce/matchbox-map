@@ -89,15 +89,7 @@ const Map = () => {
           "icon-size": 0.2,
           "icon-allow-overlap": true,
           "icon-ignore-placement": true,
-          //   "icon-rotate": [
-          //     "interpolate",
-          //     ["linear"],
-          //     ["icon-rotate"],
-          //     -1,
-          //     Math.random(),
-          //     1,
-          //     Math.random(),
-          //   ],
+          "icon-rotate": ["get", "rotation"],
         },
       });
 
