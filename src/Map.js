@@ -56,7 +56,7 @@ const Map = () => {
   useEffect(() => {
     const map = new mapboxgl.Map({
       container: mapContainer.current,
-      style: "mapbox://styles/mapbox/light-v11",
+      style: "mapbox://styles/lilyelle/clgwqknb200jm01p8dzwp6uh6",
       center: [-73.975382, 40.691965],
       minZoom: 11,
       // maxZoom: 12,
