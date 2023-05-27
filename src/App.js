@@ -2,10 +2,40 @@ import "./App.css";
 import React from "react";
 import withStyles from "react-jss";
 import Map from "./Map";
+import { thirtysixdays } from "./matchboxes";
 
 const styles = {
   app: {
     overflow: "hidden",
+  },
+  "@keyframes hoverGrow": {
+    from: { height: "125px" },
+    to: { height: "250px" },
+  },
+  titleBook: {
+    position: "absolute",
+    zIndex: 10,
+    right: 10,
+    bottom: 0,
+    width: "auto",
+    height: "125px",
+    objectFit: "cover",
+    cursor: "pointer",
+    transition: "height .5s ease-in-out",
+    "&:hover": {
+      width: "auto",
+      height: "250px",
+      transition: "height .5s ease-in-out",
+      // animationName: "$hoverGrow",
+      // animationDuration: "1s",
+    },
+    "@media only screen and (max-width: 650px)": {
+      top: 0,
+      left: 5,
+      transition: "none",
+      "&:hover": { transition: "none" },
+      height: "100px",
+    },
   },
   header: {
     position: "absolute",
@@ -27,8 +57,9 @@ const styles = {
       bottom: "initial",
       flexDirection: "column",
       textAlign: "left",
-      alignItems: "center",
+      alignItems: "flex-end",
       lineHeight: 1.2,
+      paddingRight: "8px",
     },
   },
   title: {
@@ -41,6 +72,10 @@ const styles = {
     "@media only screen and (max-width: 650px)": {
       textTransform: "uppercase",
       letterSpacing: 2.3,
+      fontWeight: 100,
+    },
+    "@media only screen and (min-width: 651px)": {
+      display: "none",
     },
   },
   subHead: {
@@ -50,6 +85,9 @@ const styles = {
     "@media only screen and (max-width: 650px)": {
       fontSize: "12px",
       lineHeight: 1.5,
+    },
+    "@media only screen and (min-width: 651px)": {
+      display: "none",
     },
   },
   link: {
@@ -65,7 +103,22 @@ const styles = {
 function App({ classes }) {
   return (
     <div className={classes.app}>
+      <a
+        href="https://www.lilyelle.xyz/36days"
+        target="_blank"
+        rel="noreferrer"
+        className={classes.titleBookContainer}
+      >
+        <img
+          className={classes.titleBook}
+          alt={
+            "an illustrated matchbook title card that says '36 Days of NYC Matchboxes' and links to Lily's portfolio website"
+          }
+          src={thirtysixdays}
+        />
+      </a>
       <div className={classes.header}>
+        {" "}
         <h2 className={classes.title}>36 Days of NYC Matchboxes</h2>
         <p className={classes.subHead}>
           A{" "}

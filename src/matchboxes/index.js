@@ -34,3 +34,4 @@ export { default as six } from "./6BAR6.png";
 export { default as seven } from "./7NO7.png";
 export { default as eight } from "./81OR8.png";
 export { default as nine } from "./9THENINES.png";
+export { default as thirtysixdays } from "./36days.png";
