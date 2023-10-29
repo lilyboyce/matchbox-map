@@ -108,7 +108,7 @@ const Map = () => {
 
         new mapboxgl.Popup()
           .setLngLat(coordinates)
-          .setHTML(popupImage + meta + title + description)
+          .setHTML(popupImage + title + description)
           .addTo(map);
 
         window.dataLayer.push({
