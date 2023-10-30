@@ -2,6 +2,7 @@ import React, { useRef, useEffect } from "react";
 import mapboxgl from "!mapbox-gl"; // eslint-disable-line import/no-webpack-loader-syntax
 import geoJson from "./restaurants.json";
 import * as matchboxes from "./matchboxes";
+import AnimatedPopup from "mapbox-gl-animated-popup";
 
 mapboxgl.accessToken =
   "pk.eyJ1IjoibGlseWVsbGUiLCJhIjoiNzBlNjkxMjJjMmZkOTk3NTUzNWIwMDc4N2IxZmFkNGEifQ.LZYRPY8cYNO4abhaux-v_A";
@@ -47,16 +48,13 @@ const images = [
 
 const Map = () => {
   const mapContainer = useRef(null);
-  //   const map = useRef(null);
-  //   const [lng, setLng] = useState(-73.948708);
-  //   const [lat, setLat] = useState(40.729115);
-  //   const [zoom, setZoom] = useState(11);
 
   //create the map
   useEffect(() => {
     const map = new mapboxgl.Map({
       container: mapContainer.current,
-      style: "mapbox://styles/lilyelle/clgwqknb200jm01p8dzwp6uh6",
+      // style: "mapbox://styles/lilyelle/clgwqknb200jm01p8dzwp6uh6",
+      style: "mapbox://styles/lilyelle/clod24elh00se01qx64ysdjno",
       center: [-73.975382, 40.691965],
       minZoom: 11,
       // maxZoom: 12,
@@ -101,7 +99,7 @@ const Map = () => {
         const coordinates = e.features[0].geometry.coordinates.slice();
         const title = `<h2><a href=${prop.url} target='blank' title='Opens in a new window'>${prop.title}</a></h2>`;
         const description = `<p>${prop.description}</p>`;
-        const meta = `<p class="meta">${prop.meta}</p>`;
+
         //match each image id with its url in the popup
         const imgUrl = images.find((item) => prop.img === item.id);
         const popupImage = `<p><img class="popupImage" src=${imgUrl.url}></img></p>`;

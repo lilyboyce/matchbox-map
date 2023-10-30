@@ -119,7 +119,7 @@ function App({ classes }) {
       </a>
       <div className={classes.header}>
         {" "}
-        <h2 className={classes.title}>36 Days of NYC Matchboxes</h2>
+        {/* <h2 className={classes.title}>36 Days of NYC Matchboxes</h2>
         <p className={classes.subHead}>
           A{" "}
           <a
@@ -139,7 +139,7 @@ function App({ classes }) {
           >
             Lily Boyce
           </a>
-        </p>
+        </p> */}
       </div>
       <Map />
     </div>
