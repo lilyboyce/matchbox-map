@@ -104,7 +104,7 @@ function App({ classes }) {
   return (
     <div className={classes.app}>
       <a
-        href="https://www.lilyelle.xyz/36days"
+        href="https://www.lilyelle.xyz/36-nyc-matchboxes"
         target="_blank"
         rel="noreferrer"
         className={classes.titleBookContainer}
